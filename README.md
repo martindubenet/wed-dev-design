@@ -2,9 +2,7 @@
 
 You won't find any code lines in this project.
 
-I use this repository to store all my knowlage under the [Wiki tab](/martindubenet/wed-dev/wiki). From there use the **Search** from the sidebar navigation to find content.
-
-* [ https://github.com/martindubenet/wed-dev/**wiki** ](/martindubenet/wed-dev/wiki/)
+I use this repository to store all my knowlage under the [Wiki tab](https://github.com/martindubenet/wed-dev/wiki). From there use the **Search** from the sidebar navigation to find content.
 
 ### Most useful documents
 
