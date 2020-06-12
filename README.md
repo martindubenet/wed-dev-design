@@ -1,4 +1,4 @@
-# Web-dev wiki
+# [Web-dev wiki](https://github.com/martindubenet/wed-dev/wiki)
 
 You won't find any code lines in this project.
 
