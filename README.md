@@ -1,9 +1,10 @@
-![wiki tab](https://i.imgur.com/kZQieDi.png)
 # [Web-dev wiki](https://github.com/martindubenet/wed-dev/wiki)
 
 You won't find any code lines in this project.
 
-I use this repository to store all my knowlage under the [Wiki tab](https://github.com/martindubenet/wed-dev/wiki). From there I use the **Search** from the sidebar navigation to find content.
+I use this repository to store all my knowlage under the [Wiki tab](https://github.com/martindubenet/wed-dev/wiki).<br>![wiki tab](https://i.imgur.com/kZQieDi.png)
+
+From there I use the **Search** from the sidebar navigation to find content.
 
 I document answers that I found to technical issues that I faced while coding or designing stuff for my full time [day job](https://www.linkedin.com/in/martindubenet/). From the tiny [SSH Key setting](https://github.com/martindubenet/wed-dev/wiki/setup-%E2%80%A2-SSH-key) that I keep on forgetting, to my [Visual Studio Code app preferences](https://github.com/martindubenet/wed-dev/wiki/app-%E2%80%A2-Visual-Studio-Code) that I can't live without.
 
